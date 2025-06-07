@@ -1,4 +1,4 @@
-  // PROBLEM | given a decimal number, count how many ones would be in the binary form
+   // PROBLEM | given a decimal number, count how many ones would be in the binary form
 
 pub fn egg_count(display_value: u32) -> usize {
   
